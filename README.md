@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on my own projects<br>👯‍♀️ I'm looking to collaborate on with others developers<br>🤝 I'm looking for help with implement artificial intelligence in a web3 application,<br>🍒 I'm currently learning web 3<br>💬 Ask me about Data Sciencie & Artificial Intelligence<br>⚡ Fun fact Robots with AI can learn through observation and experience, much like humans do. This is called "reinforcement learning" and is used to train robots in complex tasks such as handling delicate objects.<br>
+🔭 I'm currently working on my own projects<br>👯‍♀️ I'm looking to collaborate on with others developers<br>🤝 I'm looking for help with implement artificial intelligence in a web3 application<br>🍒 I'm currently learning web 3<br>💬 Ask me about Data Sciencie & Artificial Intelligence<br>⚡ Fun fact Robots with AI can learn through observation and experience, much like humans do. This is called "reinforcement learning" and is used to train robots in complex tasks such as handling delicate objects.<br>
 
 
 # 💻 Tech Stack:
